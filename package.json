@@ -1,0 +1,24 @@
+{
+  "name": "ws-ntp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://minhnguyen389@bitbucket.org/minhnguyen389/ws-ntp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/minhnguyen389/ws-ntp/issues"
+  },
+  "homepage": "https://bitbucket.org/minhnguyen389/ws-ntp#readme",
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "mqtt": "^5.3.3",
+    "node-schedule": "^2.1.1"
+  }
+}
